@@ -13,7 +13,7 @@ PRoot is a user-space implementation of <code>chroot</code>, <code>mount --bind<
 Benefits of PRoot include running Linux operating systems in Termux on a smartphone and tablet in Android and Chrome. Termux offers Linux operating system software for your device in the following flavors:
 
 
-1. [Arch](Arch)
+1. [Arch Linux](https://termuxarch.github.io/docsTermuxArch/)
 2. [Debian](https://people.debian.org/~wookey/bootstrap.html)
 2. [CentOS](https://www.centos.org/download/)
 2. [Fedora](https://wiki.termux.com/wiki/Fedora)
